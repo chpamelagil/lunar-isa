@@ -1,0 +1,12 @@
+{
+  "name": "LUNAR — Isa",
+  "short_name": "LUNAR",
+  "description": "Asistente académico personal de Isa para TECSUP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070916",
+  "theme_color": "#090c1a",
+  "icons": [
+    {"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
